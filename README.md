@@ -4,6 +4,9 @@ Crea tu primer Addon con Canales de Youtube
 
 ## Menu y Addon mas completo 
 [Como programar un add-ons mas completo](https://www.mimediacenter.info/2013/01/12/como-programar-add-ons-en-xbmc-un-add-on-mas-completo/).
+## Bibliotecas de Python
+Además de las bibliotecas estándar, Kodi Python utiliza un puñado de módulos personalizados para exponer la funcionalidad de Kodi a Python.
+[https://kodi.wiki/view/Python_libraries]
 
 
 ## Codequick 
