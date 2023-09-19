@@ -6,7 +6,6 @@ Crea tu primer Addon con Canales de Youtube
 [Como programar un add-ons mas completo](https://www.mimediacenter.info/2013/01/12/como-programar-add-ons-en-xbmc-un-add-on-mas-completo/).
 
 
-## Plugin Tools
-¿Qué es «Plugin Tools»?
-Es una librería en Python diseñada para simplificar al máximo el desarrollo de add-ons para XBMC, proporcionando sencillas funciones para resolver los problemas habituales que tienes cuando programas.
-[plugintools](https://www.mimediacenter.info/plugintools/).
+## Codequick 
+Codequick es un marco para complementos de Kodi. El objetivo de este marco es simplificar el desarrollo de complementos.
+[https://github.com/willforde/script.module.codequick]
